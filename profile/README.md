@@ -4,6 +4,9 @@
 
 [Сайт хакатона](https://mt-hackathon.ru)
 
+## Развёртывание
+[Инструмент развёртывания](https://github.com/Parovoz-Team-MTTECH-Hackathon/vsm-conductor-trainer-build)
+
 ## Репозитории:
 
 [Документация](https://github.com/Parovoz-Team-MTTECH-Hackathon/vsm-conductor-trainer-docs)
